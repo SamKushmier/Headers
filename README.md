@@ -31,7 +31,8 @@ typically you could also use this in lu of the Double PoundHeader. It serves the
 
 To end us off, we will conclude with the Quadruple PoundHeader,
 #### "Hi"
-typically you could use this to make a list that you would like slighly larger or a second subsection within a main one, due to the fact that it is only slightly larger then the typical size when typing. To use it you simply start a new line and start it with #### followed by what you would like to say, "#### words of wisdom".
+typically you could use this to make a list that you would like slightly larger or a second subsection within the main on, due to the fact that it is only slightly larger then the typical size when typing. To use it you simply start a new line and start it with #### followed by what you would like to say,"#### words of wisdom".
+
 ---
 ---
 ---
@@ -40,4 +41,4 @@ typically you could use this to make a list that you would like slighly larger o
 ---
 ## Target Audience
 
-The target audience for this project is for someone who is just starting out on git hub and is having trouble figuing out sizing for their words and projects. I honestly feel like this is really useful since when I was starting out I was having to scroll through google looking for this 
+The target audience for this project is for someone who is just starting out on git hub and is having trouble figuing out sizing for their words and projects. I honestly feel like this is really useful since when I was starting out I was having to scroll through google looking for this but I think it would be useful to provide, since I'm rather forgetful and would have it on my own github list.
